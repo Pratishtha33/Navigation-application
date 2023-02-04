@@ -1,5 +1,5 @@
-# Navigation-application
-Made for out university navigation purpose, being a student of university we I faced issues in finding the lecture theatres, classrooms and labs. for resolving this issue I thought to make a navigation system using virtual reality which turned out interesting and perfect for solving the issue. 
+# Navigation-System
+Introducing the innovative navigation system for universities, made using Augmented Reality (AR) technology. This system provides a unique and intuitive way for students, visitors, and staff to navigate the university campus. With the use of AR, the navigation system displays virtual directions and information on the user's physical environment, allowing for an immersive experience. The system is easy to use and eliminates the need for traditional paper maps or brochures. It is designed to be highly customizable, with the ability to add new buildings, routes, and points of interest. Experience the future of navigation with this cutting-edge AR technology.
 
 ![capture 1](https://user-images.githubusercontent.com/77717155/215500382-3be6bad5-6832-4190-ac6c-1b8c292b350c.png)
 
